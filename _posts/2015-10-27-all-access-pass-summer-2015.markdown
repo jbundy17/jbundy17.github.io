@@ -16,8 +16,6 @@ Our group collaborated to develop four playlists:
 
 Each playlist includes four activities that help youth think about museum spaces in new ways, such as creating a soundtrack for your visit or crafting a poem from works found on wall text. 
 
-![](https://www.filepicker.io/api/file/JsVkDCe0QaKNsh4TBDVC)
-
 ## Challenges & Successes
 The playlists were developed and successfully hosted on the Chicago City of Learning website in a relatively short amount of time. Seventy teens completed 251 entries over the course of the summer. Students and staff encountered a few glitches while using the platform, but the Digital Youth Network team was quick to resolve issues that they could.
 
